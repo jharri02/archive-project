@@ -5,7 +5,7 @@
     background-image: url('old-engraving1.jpg');
     background-size: cover;
     background-position: center;
-    color:  rgb(40, 131, 200);
+    color:  red;
     padding: 20px;
     
 }
@@ -28,4 +28,7 @@ main{
     display: flex;
     flex-direction: column;
     flex: 1;
+}
+img{
+    float: right
 }
