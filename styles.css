@@ -1,3 +1,10 @@
 *{
     margin: 30px;
 }
+.header-container{
+    background-image: url('old-engraving1.jpg');
+    background-size: cover;
+    background-position: center;
+    color:  rgb(40, 131, 200);
+    padding: 20px;
+}
