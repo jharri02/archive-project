@@ -8,3 +8,6 @@
     color:  rgb(40, 131, 200);
     padding: 20px;
 }
+.flex-container{
+    display: flex;
+}
